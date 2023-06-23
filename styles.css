@@ -1,0 +1,170 @@
+a:active {
+  color: Orange;
+}
+
+body {
+  background-color: AliceBlue;
+}
+
+</style>
+
+body {
+font-family: Arial, sans-serif; margin: 0; padding: 0; 
+}
+
+header {
+background-color: CadetBlue;color: White; padding: 20px; text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: CadetBlue;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: MediumAquaMarine;
+}
+
+.active {
+  background-color: DarkSeaGreen;
+}
+
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+
+
+
+body {
+font-family: Arial, sans-serif; margin: 0; padding: 0;
+}
+
+header {
+background-color: CadetBlue;color: White; padding: 20px; text-align: center;
+}
+
+main {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact-form {
+  width: 60%;
+}
+
+.contact-info {
+  width: 30%;
+  height: 50%;
+  background-color: PowderBlue;
+  padding: 30px;
+  margin-right: 150px;
+
+}
+
+.contact-info h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+
+}
+
+.contact-info p {
+  margin-bottom: auto;
+
+}
+
+form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+input[type="submit"] {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+ <style>
+    .image-container {
+      display: flex;
+      align-items: center;
+      margin-bottom:50px;
+    }
+
+    .image-container img {
+      float: left;
+      margin-top: auto;
+      margin-left: 200px;
+      max-width: 60%;
+      max-height: 535px;
+
+    }
+
+    .text-box {
+      background-color: PowderBlue;
+      padding: 20px;
+      margin-left: 650px;
+      margin-top:30px;
+      margin-right:50px;
+      flex-grow: 1;
+
+    }
+
+    .text-box h2 {
+      margin-bottom: 10px;
+    }
+
+    .text-box p {
+      margin-bottom: 16px;
+    }
+
+.text-box .courier-paragraph {
+      font-family: "Times New Roman", Serif;
+    }
+
+  </style>
+</head>
+
+
+
+
+
