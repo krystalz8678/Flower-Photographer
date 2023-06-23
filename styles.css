@@ -133,7 +133,7 @@ input[type="submit"] {
     .image-container img {
       float: left;
       margin-top: auto;
-      margin-left: 200px;
+      margin-left: 100px;
       max-width: 60%;
       max-height: 535px;
 
